@@ -19,7 +19,6 @@ Cyber Assistant is an AI-powered security dashboard designed to help users monit
 - [Project Structure](#project-structure)
 - [API Endpoints](#api-routes)
 - [Technologies Used](#technologies-used)
-- [Screenshots](#screenshots)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -139,14 +138,6 @@ Cyber-Assistant/
 - **PostgreSQL** - Relational Database
 - **OpenAI API** - AI chat assistant
 - **Docker** *(optional for deployment)*
-
----
-
-##  Screenshots
-
-| Dashboard Overview | Chat Assistant | Threat Alerts |
-|:---:|:---:|:---:|
-| ![Dashboard](your-dashboard-image-url) | ![Chat](your-chat-image-url) | ![Alerts](your-alerts-image-url) |
 
 ---
 
