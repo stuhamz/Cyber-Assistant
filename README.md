@@ -1,6 +1,6 @@
 # 🛡️ Cyber Assistant – Real-Time Security Dashboard
 
-![Cyber Assistant Logo](your-logo-url-here)
+![Cyber Assistant Logo](logo1.png)
 
 ---
 
@@ -41,7 +41,7 @@ The system architecture is composed of:
 - **Database:** PostgreSQL database for storing user data, tasks, and security reports.
 - **AI Integration:** OpenAI-powered chat assistant providing live cybersecurity recommendations.
 
-![Architecture Diagram](your-architecture-image-url-here)
+![Architecture Diagram](sys1.png)
 
 ---
 
